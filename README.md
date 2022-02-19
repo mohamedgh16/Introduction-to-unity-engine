@@ -21,7 +21,14 @@ To follow along with this tutorial, you’ll need the following:
 If you don't have the unity engine installed on your system, you can click [here](https://unity.com/download) to download it and install it.
 
 ### Unity version and updates
-In order to make a new project, you need to pick a unity version (latest version is recommended), after that you need to pick your modules. In this tutorial, we will only need the *WebGL Builed Support* module, click on done and it will be downloaded and installed. ![Webgl](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Webgl.png).
+In order to make a new project, first you open the unity hub, then you need to pick a unity version (latest version is recommended), after that you need to pick your modules. In this tutorial, we will only need the *WebGL Builed Support* module, click on done and it will be downloaded and installed.
+
+![Webgl](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Webgl.png).
+
+### Create a new project
+Using the unity hub, click on projects then click on new. In this tutorial we will work on a 3D template, click on 3D, name the file and choose a place to save your project on your computer. 
+![Newproject](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Newproject.png).
+
 
 ### Unity interface
 
