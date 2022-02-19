@@ -32,7 +32,22 @@ Using the unity hub, click on projects then click on new. In this tutorial we wi
 
 
 ### Unity interface
+At first sight, you may think that the unity interface looks complicated, but after understanding each part of it it will be simpler to you. We will describe the main parts of the interface and explain how they work togather later on in this tutorial.
 
+#### Hierarchy
+The Hierarchy will contain all the objects created in your game, it can store all kind of objects, from standalone objects to composed objects.
+
+![Hierarchy](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Hierarchy1.png).
+
+#### Scene
+The scene will show us the planes and the game objects that we create and use in the game, it's also the main tool in unity because it helps us minipulate move and duplicate the objects that we have in order to make a perfect composed object.
+
+![Scene1](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Scene1.png).
+
+### Inspector
+The inspector contains all kinds of information about any created object, from logical information to physical information, it also allows editing these information from the inspector instead of editing them from the scene witch is harder sometime or even imposible for some data. If you need to know any infromation about any object, simply click on it.
+
+![Inspector](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Inspector.png).
 
 ### Unity objects
 
