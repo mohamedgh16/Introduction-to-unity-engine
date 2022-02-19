@@ -91,4 +91,3 @@ In this tutorial, we have learned all the functionalities of the unity engine in
 - [Unity tips from the community](https://blog.unity.com/technology/become-a-better-unity-developer-with-these-tips-from-the-community).
 - [New career in unity](https://blog.unity.com/technology/new-career-pathways-help-you-break-into-the-gaming-and-tech-industries).
 - [Learn 3D arts in unity](https://blog.unity.com/technology/learn-3d-art-optimization-for-mobile-with-arm).
--
