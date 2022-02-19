@@ -27,6 +27,7 @@ In order to make a new project, first you open the unity hub, then you need to p
 
 ### Create a new project
 Using the unity hub, click on projects then click on new. In this tutorial we will work on a 3D template, click on 3D, name the file and choose a place to save your project on your computer. 
+
 ![Newproject](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Newproject.png).
 
 
