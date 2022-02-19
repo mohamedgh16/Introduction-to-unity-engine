@@ -8,15 +8,20 @@ Unity engine is one of the strongest engines in game development and it's one of
 ### Table of contents
 - Understand the engine interface
 - Create edit and compose objects
-- Understand the reusbility of prefabs
+- Understand the reusability of prefabs
 
 ### Prerequisites
-To follow along with this article, you’ll need the following:
+To follow along with this tutorial, you’ll need the following:
 - A basic understanding of the C# programming language.
 - A basic understanding of classes and objects in the C# programming language.
-- Having unity engine installed on your system.
+- Have a unity engine installed on your system.
+
+**Note** that we will not use the C# language directly in this tutorial, but understanding it will be helpfull with unity objects and later on when coding is needed.
 
 If you don't have the unity engine installed on your system, you can click [here](https://unity.com/download) to download it and install it.
+
+### Unity version and updates
+In order to make a new project, you need to pick a unity version (latest version is recommended), after that you need to pick your modules. In this tutorial, we will only need the *WebGL Builed Support* module, click on done and it will be downloaded and installed. ![Webgl](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Webgl.png).
 
 ### Unity interface
 
