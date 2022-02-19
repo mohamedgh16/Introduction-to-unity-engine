@@ -1,7 +1,5 @@
 # Introduction-to-unity-engine
 
-### Introduction-to-unity-engine-using-c-
-
 ### Introduction
 Unity engine is one of the strongest engines in game development and it's one of the easiest engines that would help a programmer begin his journey in the gaming development industry. In this tutorial, we will explain the interface of the engine and understand how to create different objects, manipulate them and compose them together, we will also use prefabs to enhance the ability to reuse and edit different objects.
 
@@ -84,7 +82,7 @@ Drag the *Completed car* object to the assets area to be able to use the prefab 
 
 I have created another prefab beside the car and called it *Street lamp*, simply a composed object of two cylinders, and used prefab to copy and reuse the object with the car object to make a crowded street full of cars,finally put them all under a plane object from the 3D objects. The scene should finally look something like this.
 
-![Allscenes](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/AllScenes.png).
+![Allscenes](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Allscenes.png).
 
 ### Conclusion
 In this tutorial, we have learned all the functionalities of the unity engine interface, we have also understood how objects operate and how we can create them, manipulate them, and use them in different fields inside the world of the game. Finally, we have learned about prefabs and how we can reuse the same work instead of repeating it multiple times. Don't forget to try out the examples yourself to fully understand how they work.
