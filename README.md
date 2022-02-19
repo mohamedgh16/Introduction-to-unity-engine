@@ -45,11 +45,17 @@ The scene will show us the planes and the game objects that we create and use in
 ![Scene1](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Scene1.png).
 
 ### Inspector
-The inspector contains all kinds of information about any created object, from logical information to physical information, it also allows editing these information from the inspector instead of editing them from the scene witch is harder sometime or even imposible for some data. If you need to know any infromation about any object, simply click on it.
+The inspector contains all kinds of information about any created object, from logical information to physical information, it also allows editing these information from the inspector instead of editing them from the scene wich is harder sometime or even imposible for some data. If you need to know any infromation about any object, simply click on it.
 
 ![Inspector](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Inspector.png).
 
 ### Unity objects
+In this tutorial we will be creating a simple car from composing many objetcs, let's begin by creating our first object. Right click on the Hierarchy, click on 3D object then click on cube, Now a cube will appear on your screen inside the Scene, try moving around the cube by clicking alt + left click and try zooming and and out using the middle mouse button, you maype also hold on your middle mouse and move your hand to move freely on the planes of your scene and objects. All the previous movments will come in handy when working on your objects.
+
+![Cube](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Cube.png).
+
+
+
 
 
 ### Prefabs
