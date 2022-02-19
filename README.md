@@ -56,7 +56,7 @@ In this tutorial we will be creating a simple car from composing many objetcs, l
 
 Now we need to change the properties of the cube to make it suitable for a lower body part, first we click on the cube then press R, now we can extend the length of all the planes and change them any any direction we want. Change the name of the cube by clicking on it on the hierarchy and rename it to *Lower body*. After extending the planes of the object it should something like this. 
 
-![Carbody](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Carbody.png).
+![Carbody_1](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Carbody_1.png).
 
 Now we need to make the upper body of the car, but instead of making the whole proccess all over, we could duplicate the lower body of the car but clicking on it from the hierarchy and rename it to upper body, after that the two objects will be inside each other, so you click on the object from the scene and click W to move the upper body on top of the lower body.
 
