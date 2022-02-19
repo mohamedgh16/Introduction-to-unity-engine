@@ -49,6 +49,9 @@ The inspector contains all kinds of information about any created object, from l
 
 ![Inspector](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Inspector.png).
 
+### Assets
+Assets can store all kind of files and models in your game including what we will be mostly using in this tutorial (prefabs).
+
 ### Unity objects
 In this tutorial we will be creating a simple car from composing many objetcs, let's begin by creating our first object. Right click on the Hierarchy, click on 3D object then click on cube, Now a cube will appear on your screen inside the Scene, try moving around the cube by clicking alt + left click and try zooming and and out using the middle mouse button, you maype also hold on your middle mouse and move your hand to move freely on the planes of your scene and objects. All the previous movments will come in handy when working on your objects.
 
@@ -64,25 +67,24 @@ The second part of this is to reshape the upper body and make it smaller, in ord
 
 ![Upperbody](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Upperbody.png).
 
+The car needs some wheels so we need to add a cylinder from the hierarchy and rename it to *Wheel*, now we need to work on that cylinder to make it look like a wheel, to reshape the cylinder, click on R move down with the mouse to make the cylinder smaller, then press E + ctrl to rotate the wheel to 90 percent degree, finally click on W to move the wheel around and put it in the right place. The wheel should look something like this.
 
+![Wheel1](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Wheel1.png).
 
+Now we need to duplicate the wheel into 4 wheels from the hierarchy and do the same work that we did before and put each wheel in the right place using the tools from your keybored (W,E,R). The car is completed now and it should look something like this.
 
+![Allcar](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/Allcar.png).
+
+Finally, we need to make an empty object from the hierarchy, rename it to *Completed car* and put all the other objects that we previously created inside of it by simply choosing them all and putting them inside of the new object.
 
 ### Prefabs
+Prefabs is one of the most important concepts in unity, it allows the reusebility of all obejtcs in your game, for example, the car that we previously made, we can reuse it and put it any where inside the game. What is the most important thing about prefabs? The answer is the ability to edit one object and the resault of this editing will be deployed on all the copies of this object inside the game. Prefabs is the ultimate time and effort savior in unity.
 
+Drag the *Completed car* object to the assets area to be able to use the prefab option. Do this with any composed object later on in your game if you wish to use it multiple times and feel the need to edit it with out wasting your time.
 
+I have created another prefab beside the car and called it *Street lamp*, simply a composed object of two cylinders, and used prefab to copy and reuse the object with the car object to make a crowded street full of cars,finally put them all under a plane object from the 3D objects. The scene should finally look something like this.
 
-
-
-
-
-
-
-
-
-
-
-
+![Allscenes](https://github.com/mohamedgh16/Introduction-to-unity-engine/blob/main/AllScenes.png).
 
 ### Conclusion
 In this tutorial, we have learned all the functionalities of the unity engine interface, we have also understood how objects operate and how we can create them, manipulate them, and use them in different fields inside the world of the game. Finally, we have learned about prefabs and how we can reuse the same work instead of repeating it multiple times. Don't forget to try out the examples yourself to fully understand how they work.
